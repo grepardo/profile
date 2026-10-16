@@ -1,6 +1,6 @@
 # Hi! I'm Gre 👋
 
-🎓 ** TUDAI Student | Automation & API Integration | software Developer**
+🎓 **TUDAI Student | Automation & API Integration | software Developer**
 
 I'm a student at UNICEN, located in Tandil Argentina, passionate about technology, process automation, and software development.
 
